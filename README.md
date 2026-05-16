@@ -1,6 +1,6 @@
 # gta-rp-macro
 
-Keyboard macro tool for farming handshakes on GTA RP servers. Two modes — one for sending a fully configurable key sequence, one for spamming accept prompts.
+Keyboard macro tool for farming handshakes on GTA (Grand) RP servers. Two modes, one for sending a fully configurable key sequence, one for spamming accept prompts.
 
 ## Requirements
 
